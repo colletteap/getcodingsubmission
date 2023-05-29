@@ -1,0 +1,149 @@
+body { 
+	background-color: #EDD6CC; 
+	font-family: "Trebuchet MS", Tahoma, sans-serif; 
+	}
+
+p {
+	color: #233349;
+	font-size: 120% 
+	}
+
+h1 {
+	color: #233349; 
+	font-size: 300%;
+	}
+
+h2 {
+	color: #A8512F;
+	font-size: 220%
+	}
+
+h3 {
+	color: #233349; 
+	font-size: 80%
+	}
+
+h4 {
+	color: #233349;
+	font-size: 70%
+	}
+
+h1, h2, h3, h4 {
+	font-family: Georgia, serif;
+	}
+
+a {
+	color: #A8512F;
+    text-decoration: none;
+	}
+
+#main {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #9EAFB6;
+    margin: auto;
+    width: 80%;
+}
+
+#picture {
+    width: 50%;
+    padding-left: 175px;
+}
+
+.right {
+    float: right up;
+}
+
+.left {
+    float: left;
+}
+
+#me {
+    width: 75%;
+    padding-top:250px;
+    margin: auto;
+}
+
+#name {
+    width: 45%;
+    padding-top: 10px;
+    padding-right: 180px;
+    float: right;
+    text-align: center;
+}
+
+#why {
+    width: 75%;
+    text-align: right;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+#social {
+    text-align: center;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+#hi {
+    text-align: center;
+    margin: auto;
+}
+
+#footer {
+    text-transform: uppercase;
+    font-size: 50%;
+    text-align: center;
+}
+
+#love {
+    background-color: #9EAFB6;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #9EAFB6;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 1.3;
+}
+
+#bio {
+    background-color: #9EAFB6;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #9EAFB6;
+    padding-left: 15px;
+    padding-right: 15px;
+    line-height: 1.3;
+}
+
+#social img {
+    margin: 10px;
+}
+
+#website {
+    width: 80%;
+    padding-left: 15px;
+}
+
+#intro {
+    background-color: #9EAFB6;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #9EAFB6;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#website a {
+    color: #233349;
+}
+
+#website a:hover {
+    color: #A8512F;
+}
+
+#udemy {
+    text-align: right;
+    padding-right: 380px;
+    margin: auto;
+}
